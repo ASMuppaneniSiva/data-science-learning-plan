@@ -1,5 +1,6 @@
 # Data Science Learning Plan
 ## Topics
+
 #### 1. Data Analysis
   * Complete ISLR book **with writing accompanying notes**(chapters left: 8 (lab only), 9 (SVM), 10 (Unsupervised Learning))
   * Implementations in R
@@ -12,6 +13,7 @@
       * NLP implementations
     * Neural Networks (for later. This is in low priority regarding R)
   * "Understanding and Applying Factor Analysis and PCA" PluralSight course: https://app.pluralsight.com/library/courses/understanding-applying-factor-analysis-pca/
+
 #### 2. Machine Learning
   * Andrew Ng Course (from Neural Networks onward): https://www.coursera.org/learn/machine-learning
   * Stanford NLP with Deep Learning course: https://youtu.be/OQQ-W_63UgQ
@@ -20,7 +22,7 @@
   * (1) Reinforcment Learning course by David Silver (one of the AlphaGo guys): https://youtu.be/2pWv7GOvuf0
   * (2) Deep Reinforcement Learning course: https://youtu.be/8jQIKgTzQd4
   * "Understanding Machine Learning with Python" PluralSight course: https://app.pluralsight.com/library/courses/python-understanding-machine-learning/
-  *
+  
 #### 3. Programming and Data Engineering
   * **Python**
     * "Python Fundamentals" course in PluralSight: https://app.pluralsight.com/player?course=python-fundamentals
@@ -44,11 +46,13 @@
     * "Introduction to MongoDB" PluralSight course: https://app.pluralsight.com/library/courses/mongodb-introduction
   * **R**
     * "Advanced R" - book by Hadley Wickham
+
 #### 4. Research Designs Reading
   * "Bias and Causation" - book by Weisberg
   * "Probability Theory - The Logic of Science" - book by E.T Jaynes
   * "Identificaiton Problems in the Social Sciences" - book by C. Manski
   * "Propensity Score Estimation: Machine Learning and Classification Methods as Alternatives to Logistic Regression" paper to read.
+
 #### 5. Topic-Specific: Healthcare (Genetics)
   * "Machine Learning in Genomic Medicine: A Review of Computational Problems and Data Sets" paper to read.
   * "Machine Learning Applications in Genetics and Genomics" paper to read.
