@@ -35,14 +35,14 @@
       * DataCamp Jupyter Notebook tutorial: https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
       * "Jupyter Notebook Tutorial: Introduction, Setup, and Walkthrough": https://www.youtube.com/watch?v=HW29067qVWk
     * Improve Your Python: 'yield' and Generators Explained: https://jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/
-  * Elasticsearch
+  * **Elasticsearch**
     * "Searching and Analyzing Data with Elasticsearch: Getting Started" PluralSight course: https://app.pluralsight.com/library/courses/elasticsearch-analyzing-data
     * Theory behind Elasticsearch's scoring: https://www.elastic.co/guide/en/elasticsearch/guide/current/scoring-theory.html
     * Elasticsearch query language tutorial: http://okfnlabs.org/blog/2013/07/01/elasticsearch-query-tutorial.html
     * Another query language tutorial: https://www.tutorialspoint.com/elasticsearch/elasticsearch_query_dsl.htm
-  * MongoDB
+  * **MongoDB**
     * "Introduction to MongoDB" PluralSight course: https://app.pluralsight.com/library/courses/mongodb-introduction
-  * R
+  * **R**
     * "Advanced R" - book by Hadley Wickham
 #### 4. Research Designs Reading
   * "Bias and Causation" - book by Weisberg
