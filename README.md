@@ -6,13 +6,18 @@
   * Implementations in R
     * Boosting (AdaBoost). Nice link to read and follow along: http://freakonometrics.hypotheses.org/19874
     * Random Forests
-    * XGBoost
+    * XGBoost: http://xgboost.readthedocs.io/en/latest/R-package/xgboostPresentation.html
+    * Algo Trading:
+      * Tutorial in R: https://www.datacamp.com/community/tutorials/r-trading-tutorial#gs.b4SJSWE
+      * Model a Quantitative Strategy in R: https://campus.datacamp.com/courses/model-a-quantitative-trading-strategy-in-r/chapter-2-code-a-basic-trading-strategy?ex=1
     * Text Analysis
       * Scraping text form web
       * Bag of Words approach
+        * Data Camp Intro to Bag of Words: https://campus.datacamp.com/courses/intro-to-text-mining-bag-of-words
       * NLP implementations
     * Neural Networks (for later. This is in low priority regarding R)
   * "Understanding and Applying Factor Analysis and PCA" PluralSight course: https://app.pluralsight.com/library/courses/understanding-applying-factor-analysis-pca/
+  * Gradient Boosting - Trevor Hastie: https://youtu.be/wPqtzj5VZus
 
 #### 2. Machine Learning
   * Andrew Ng Course (from Neural Networks onward): https://www.coursera.org/learn/machine-learning
@@ -22,6 +27,7 @@
   * (1) Reinforcment Learning course by David Silver (one of the AlphaGo guys): https://youtu.be/2pWv7GOvuf0
   * (2) Deep Reinforcement Learning course: https://youtu.be/8jQIKgTzQd4
   * "Understanding Machine Learning with Python" PluralSight course: https://app.pluralsight.com/library/courses/python-understanding-machine-learning/
+  * "Non-convex Optimization for Machine Learning: Theory and Practice": https://www.youtube.com/watch?v=pMPc5mKPj-M
   
 #### 3. Programming and Data Engineering
   * **Python**
@@ -30,7 +36,8 @@
       * "Python for Data Science": edX course: https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+2T2017/course/
       * Pandas and dplyr compraison: http://nbviewer.jupyter.org/gist/TomAugspurger/6e052140eaa5fdb6e8c0
     * Quick Numpy, Scipy, and general Python tutorial in the NLP Stanford course: http://cs231n.github.io/python-numpy-tutorial/
-    * "Understanding Python's Execution Model": https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ 
+    * "Understanding Python's Execution Model": https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/
+    * Python Codeacademy course
     * Python boot camp - Object Oriented Programming: https://www.youtube.com/watch?v=HQ0q6oMpOEs
     * Improve your Python: Object Oriented Programming: https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/
     * Using Jupyter Notebooks:
