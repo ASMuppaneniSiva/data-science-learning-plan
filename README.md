@@ -6,7 +6,10 @@
   * Implementations in R
     * Boosting (AdaBoost). Nice link to read and follow along: http://freakonometrics.hypotheses.org/19874
     * Random Forests
-    * XGBoost: http://xgboost.readthedocs.io/en/latest/R-package/xgboostPresentation.html
+    * XGBoost: 
+      * http://xgboost.readthedocs.io/en/latest/R-package/xgboostPresentation.html
+      * "Introduction to Boosted Trees": http://xgboost.readthedocs.io/en/latest/model.html
+      * "A Gentle Introduction to XGBoost for Applied Machine Learning": https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/ 
     * Algo Trading:
       * Tutorial in R: https://www.datacamp.com/community/tutorials/r-trading-tutorial#gs.b4SJSWE
       * Model a Quantitative Strategy in R: https://campus.datacamp.com/courses/model-a-quantitative-trading-strategy-in-r/chapter-2-code-a-basic-trading-strategy?ex=1
@@ -15,6 +18,7 @@
       * Bag of Words approach
         * Data Camp Intro to Bag of Words: https://campus.datacamp.com/courses/intro-to-text-mining-bag-of-words
       * NLP implementations
+      * "A gentle introduction to text mining using R": https://eight2late.wordpress.com/2015/05/27/a-gentle-introduction-to-text-mining-using-r/
     * Neural Networks (for later. This is in low priority regarding R)
   * "Understanding and Applying Factor Analysis and PCA" PluralSight course: https://app.pluralsight.com/library/courses/understanding-applying-factor-analysis-pca/
   * Gradient Boosting - Trevor Hastie: https://youtu.be/wPqtzj5VZus
