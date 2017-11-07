@@ -41,6 +41,7 @@
       * Pandas and dplyr compraison: http://nbviewer.jupyter.org/gist/TomAugspurger/6e052140eaa5fdb6e8c0
     * Quick Numpy, Scipy, and general Python tutorial in the NLP Stanford course: http://cs231n.github.io/python-numpy-tutorial/
     * "Understanding Python's Execution Model": https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/
+    * Python List Comprehensions (very important): https://www.datacamp.com/community/tutorials/python-list-comprehension
     * Python Codeacademy course
     * Python boot camp - Object Oriented Programming: https://www.youtube.com/watch?v=HQ0q6oMpOEs
     * Improve your Python: Object Oriented Programming: https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/
