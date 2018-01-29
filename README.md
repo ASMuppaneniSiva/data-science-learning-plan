@@ -58,6 +58,12 @@
     * "Introduction to MongoDB" PluralSight course: https://app.pluralsight.com/library/courses/mongodb-introduction
   * **R**
     * "Advanced R" - book by Hadley Wickham
+      * Spark and R
+        * "Apache Spark Fundamentals" PluralSight Course: https://app.pluralsight.com/player?course=apache-spark-fundamentals&author=justin-pihony&name=apache-spark-fundamentals-m1&clip=5&mode=live
+        * "Enabling Exploratory Analysis of Large Data with R and Spark": https://youtu.be/nrmASvsU-lo
+        * SparkR Documentation: https://spark.apache.org/docs/latest/sparkr.html#overview
+        * "Introduction to Spark in R using sparklyr" DataCamp Course: https://www.datacamp.com/courses/introduction-to-spark-in-r-using-sparklyr
+        * "Supercharge R with SparkR - Apply your R chops to Big Data!" Udemy Course: https://www.udemy.com/supercharge-r-with-sparkr/ (costs money!)
 
 #### 4. Research Designs Reading
   * "Bias and Causation" - book by Weisberg
